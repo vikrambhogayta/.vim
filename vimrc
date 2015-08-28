@@ -14,7 +14,7 @@ set autowrite     " Automatically :write before running commands
 set foldmethod=syntax
 set clipboard=unnamedplus
 set ruler
-colorscheme darcula 
+colorscheme vc 
 
 " Switch syntax highlighting on, when the terminal has colors
 " Also switch on highlighting the last used search pattern.

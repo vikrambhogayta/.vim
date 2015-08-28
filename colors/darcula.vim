@@ -128,3 +128,4 @@ hi markdownH6 ctermfg=222 ctermbg=NONE cterm=NONE guifg=#ffcf85 guibg=NONE gui=N
 hi jadeId ctermfg=10 ctermbg=NONE cterm=NONE guifg=#9f8db7 guibg=NONE gui=italic
 hi jadeClass ctermfg=103 ctermbg=NONE cterm=NONE guifg=#9f8db7 guibg=NONE gui=italic
 
+syntax on
